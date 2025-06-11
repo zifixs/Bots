@@ -1,0 +1,6 @@
+aiogram==3.0.0b7
+requests==2.31.0
+pydantic==2.6.4
+aiohttp==3.9.3
+python-dotenv==1.0.1
+typing-extensions==4.11.0
